@@ -1,8 +1,8 @@
 # distrifetch
 
-[![Build Status](https://travis-ci.org/marcin-mazurek/distrifetch.svg?branch=master)](https://travis-ci.org/marcin-mazurek/distrifetch)
+[![Build Status](https://travis-ci.org/marcin-mazurek/distrifetch.svg?branch=master)](https://travis-ci.org/marcin-mazurek/distrifetch) [![Coverage Status](https://coveralls.io/repos/github/marcin-mazurek/distrifetch/badge.svg?branch=master)](https://coveralls.io/github/marcin-mazurek/distrifetch?branch=master) [![dependencies Status](https://david-dm.org/marcin-mazurek/distrifetch/status.svg)](https://david-dm.org/marcin-mazurek/distrifetch) [![Known Vulnerabilities](https://snyk.io/test/github/marcin-mazurek/distrifetch/badge.svg)](https://snyk.io/test/github/marcin-mazurek/distrifetch)
 
-HTTP client for distributed systems
+Node.js HTTP client for distributed systems, built on top of [Request](https://github.com/request/request).
 
 ## Ideas
 
