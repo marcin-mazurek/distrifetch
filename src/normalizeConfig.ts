@@ -4,5 +4,7 @@ import NormalizedConfig from './NormalizedConfig';
 export default function normalizeConfig(
   inputConfig: BaseConfig
 ): NormalizedConfig {
-  return inputConfig;
+  return {
+    retry: inputConfig.retry ? inputConfig.retry : 0
+  };
 }

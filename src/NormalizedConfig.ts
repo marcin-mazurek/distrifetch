@@ -1,1 +1,3 @@
-export default interface NormalizedConfig {}
+export default interface NormalizedConfig {
+  retry: number;
+}

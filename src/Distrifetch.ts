@@ -1,4 +1,4 @@
-import BaseConfig from './baseConfig';
+import BaseConfig from './BaseConfig';
 import normalizeConfig from './normalizeConfig';
 import NormalizedConfig from './NormalizedConfig';
 
@@ -9,7 +9,7 @@ export default class Distrifetch {
     this.config = normalizeConfig(inputConfig);
   }
 
-  getConfig() {
+  public getConfig() {
     return this.config;
   }
 }
