@@ -1,5 +1,7 @@
 # distrifetch
 
+[![Build Status](https://travis-ci.org/marcin-mazurek/distrifetch.svg?branch=master)](https://travis-ci.org/marcin-mazurek/distrifetch)
+
 HTTP client for distributed systems
 
 ## Ideas
